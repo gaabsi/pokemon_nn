@@ -1,0 +1,43 @@
+/* Fond de la page */
+.stApp {
+    background-image: url("data:image/webp;base64,{BACKGROUND_IMAGE}");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/* Image centrale du Pokédex */
+.pokedex-image {
+    width: 60vw;
+    height: 60vh;
+    object-fit: contain;
+    display: block;
+    margin: auto;
+}
+
+
+/* Bouton de chargement */
+.upload-button {
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 1vw;
+    padding: 1.2vh 2vw;
+    font-size: 1.2vw;
+    display: flex;
+    align-items: center;
+    gap: 1vw;
+    cursor: pointer;
+    margin: auto;
+    transition: transform 0.2s ease;
+}
+
+.upload-button:hover {
+    transform: scale(1.05);
+}
+
+.upload-button img {
+    width: 2vw;
+    height: 2vw;
+}
+
