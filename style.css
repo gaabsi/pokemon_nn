@@ -8,8 +8,8 @@
 
 /* Image centrale du Pokédex */
 .pokedex-image {
-    width: 60vw;
-    height: 60vh;
+    width: 70vw;
+    height: 70vh;
     object-fit: contain;
     display: block;
     margin: auto;
@@ -41,3 +41,10 @@
     height: 2vw;
 }
 
+/* Réduction générale des images */
+img {
+    max-width: 80% !important;
+    height: auto !important;
+    display: block;
+    margin: auto;
+}
