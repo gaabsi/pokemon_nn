@@ -1,11 +1,11 @@
 # pokemon_nn
 
 ## Pokedex CNN - Classification d'images de Pokémon
-Ce projet consiste à entraîner un modèle de deep learning (CNN) capable de reconnaître automatiquement les Pokémon de la 1ʳᵉ génération à partir d'une image. 
-Le modèle a été entraîné sur des images de 64x64 pixels en couleur.
+Ce projet consiste à entraîner un modèle de deep learning (CNN) capable de reconnaître automatiquement les Pokémon de la 1ʳᵉ génération à partir d'une image.  
+Le modèle a été entraîné sur des images de 64x64 pixels en couleur.  
 Malheureusement il manque quelques pokémons, au lieu d'avoir les 151, on en a 142 ... 
 
-Nous l'avons déployé avec une UI streamlit. (Où des fonctionnalités supplémentaires ont été déployées)
+Nous l'avons déployé avec une UI streamlit. (Où des fonctionnalités supplémentaires ont été déployées)  
 Les images étant trop volumineuses elles ne sont pas hébergées ici mais le lien de téléchargement est dans le notebook principal.
 
 ## Structure du projet 
