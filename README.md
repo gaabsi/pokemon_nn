@@ -12,12 +12,12 @@ Les images étant trop volumineuses elles ne sont pas hébergées ici mais le li
 
 pokemon_nn/
 │
-├── pokedex_64x64.keras        # Modèle entraîné sauvegardé avec nos poids
-├── README.md                  
-├── notebook/                  # Notebooks du projet
-├── requirements/              # Afin d'avoir l'environnement pour cloner le projet
-└── img_best/                  # Répertoire contenant les plus belles images (pour l'affichage streamlit)
-└── streamlit_vrs/             # Déploiement de l'UI de notre pokédex
+├── pokedex_64x64.keras        # Modèle entraîné sauvegardé avec nos poids  
+├── README.md                    
+├── notebook/                  # Notebooks du projet  
+├── requirements/              # Afin d'avoir l'environnement pour cloner le projet  
+└── img_best/                  # Répertoire contenant les plus belles images (pour l'affichage streamlit)  
+└── streamlit_vrs/             # Déploiement de l'UI de notre pokédex  
 
 
 ## Contenu final du projet
