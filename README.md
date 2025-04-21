@@ -10,8 +10,8 @@ Les images étant trop volumineuses elles ne sont pas hébergées ici mais le li
 
 ## Structure du projet 
 
-pokemon_nn/
-│
+pokemon_nn/  
+│  
 ├── pokedex_64x64.keras        # Modèle entraîné sauvegardé avec nos poids  
 ├── README.md                    
 ├── notebook/                  # Notebooks du projet  
