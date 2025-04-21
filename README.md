@@ -14,7 +14,7 @@ Les images étant trop volumineuses elles ne sont pas hébergées ici mais le li
   - `pokedex_64x64.keras` : **Modèle entraîné sauvegardé avec nos poids**
   - `README.md`
   - `notebook/` : **Notebooks du projet**
-  - `requirements/` : **Fichiers pour recréer l’environnement Python**
+  - `requirements/` : **Fichier pour recréer l’environnement Python**
   - `img_best/` : **Images sélectionnées pour Streamlit**
   - `streamlit_vrs/` : **Code de l’interface Streamlit**
 
