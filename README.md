@@ -10,14 +10,13 @@ Les images étant trop volumineuses elles ne sont pas hébergées ici mais le li
 
 ## Structure du projet 
 
-pokemon_nn/  
-│  
-├── pokedex_64x64.keras        # Modèle entraîné sauvegardé avec nos poids  
-├── README.md                    
-├── notebook/                  # Notebooks du projet  
-├── requirements/              # Afin d'avoir l'environnement pour cloner le projet  
-├── img_best/                  # Répertoire contenant les plus belles images (pour l'affichage streamlit)  
-└── streamlit_vrs/             # Déploiement de l'UI de notre pokédex  
+- `pokemon_nn/`
+  - `pokedex_64x64.keras` : **Modèle entraîné sauvegardé avec nos poids**
+  - `README.md`
+  - `notebook/` : **Notebooks du projet**
+  - `requirements/` : **Fichiers pour recréer l’environnement Python**
+  - `img_best/` : **Images sélectionnées pour Streamlit**
+  - `streamlit_vrs/` : **Code de l’interface Streamlit**
 
 
 ## Contenu final du projet
