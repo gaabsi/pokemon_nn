@@ -25,6 +25,6 @@ Les images étant trop volumineuses elles ne sont pas hébergées ici mais le li
 - Déploiement afin de permettre à l'utilisateur d'en profiter. (En lui donnant notamment les statistiques du pokémon prédit, ...) 
 
 # Pour cloner le projet 
-git clone https://github.com/votrecompte/pokemon_nn.git
-cd pokemon_nn
-pip install -r requirements.txt
+git clone https://github.com/votrecompte/pokemon_nn.git  
+cd pokemon_nn  
+pip install -r requirements.txt  
