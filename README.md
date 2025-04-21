@@ -16,7 +16,7 @@ pokemon_nn/
 ├── README.md                    
 ├── notebook/                  # Notebooks du projet  
 ├── requirements/              # Afin d'avoir l'environnement pour cloner le projet  
-└── img_best/                  # Répertoire contenant les plus belles images (pour l'affichage streamlit)  
+├── img_best/                  # Répertoire contenant les plus belles images (pour l'affichage streamlit)  
 └── streamlit_vrs/             # Déploiement de l'UI de notre pokédex  
 
 
