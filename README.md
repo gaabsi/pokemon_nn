@@ -15,8 +15,7 @@ Les images étant trop volumineuses elles ne sont pas hébergées ici mais le li
   - `README.md`
   - `Notebook/` : **Notebooks du projet**
   - `requirements/` : **Fichier pour recréer l’environnement Python**
-  - `img_pokemon/` : **Images des pokémons prêtes pour l'usage dans le modèle**
-  - `img_best/` : **Images sélectionnées pour l'affichage Streamlit**
+  - `images/` : **Images des pokémons (images pour streamlit et modèle)**
   - `streamlit_vrs/` : **Pour reproduire l’interface Streamlit**
 
 
