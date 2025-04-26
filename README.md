@@ -13,7 +13,7 @@ Les images étant trop volumineuses elles ne sont pas hébergées ici mais le li
 - `pokemon_nn/`
   - `pokedex_64x64.keras` : **Modèle entraîné sauvegardé avec nos poids**
   - `README.md`
-  - `notebooks/` : **Notebooks du projet**
+  - `Notebook/` : **Notebooks du projet**
   - `requirements/` : **Fichier pour recréer l’environnement Python**
   - `img_best/` : **Images sélectionnées pour l'affichage Streamlit**
   - `streamlit_vrs/` : **Pour reproduire l’interface Streamlit**
